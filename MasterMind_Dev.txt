@@ -1,0 +1,9 @@
+Mastermind program for final POSSIBLy
+-there will be other choices for finals
+
+for final (based on Mastermind game)
+-use some sort of data source(store info in file)
+-use FX
+-use packages
+
+A good program is transferable to other languages
